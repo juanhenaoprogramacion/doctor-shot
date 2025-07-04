@@ -195,9 +195,9 @@ export const dataCocktails =[
   {
     id:25,
     name:'african hell',
-    valute:'30.000',
-    valute2:'43.000',
-    valute3:'75.000',
+    value:'30.000',
+    value2:'43.000',
+    value3:'75.000',
     desccription: 'vodka, ginebra, limon, tamarindo escarchado con tajin.'
   }
 ];
