@@ -51,8 +51,8 @@ export const dataBeers =[
     id: 7,
     name: 'Michelada',
     value: '9.000',
-    value2: '20.000',
-    value3: '40.000',
+    value2: '26.000',
+    value3: '45.000',
     description: 'Cerveza, zumo de limón, escarchada con sal.'
   },
   {
