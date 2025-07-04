@@ -45,7 +45,7 @@ export const dataBeers =[
     value: '18.000',
     value2: '28.000',
     value3: '53.000',
-    description: 'Cerveza, zumo de limón, picante, salsa inglesa, escarchado con Tajín.'
+    description: 'Cerveza, zumo de limón, picante, salsa inglesa, escarchado con Tajín.',
     id: 7,
     name: 'Michelada',
     value: '7.000',
