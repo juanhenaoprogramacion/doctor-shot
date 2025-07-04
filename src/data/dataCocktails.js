@@ -198,6 +198,6 @@ export const dataCocktails =[
     value:'30.000',
     value2:'43.000',
     value3:'75.000',
-    desccription: 'vodka, ginebra, limon, tamarindo escarchado con tajin.'
+    description: 'vodka, ginebra, limon, tamarindo escarchado con tajin.'
   }
 ];
