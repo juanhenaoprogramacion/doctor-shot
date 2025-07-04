@@ -34,16 +34,16 @@ export const dataSubmarinos =[
   {
     id: 5,
     name: 'jaggerboom',
-    value: '46.000',
-    value2: '16.000',
+    value: '47.000',
+    value2: '17.000',
     value3: '',
     description: 'Energizante y jager.'
   },
   {
     id: 6,
     name: 'the revés jagerboom',
-    value: '55.000',
-    value2: '20.000',
+    value: '70.000',
+    value2: '30.000',
     value3: '',
     description: 'Jager y energizante.'
   },

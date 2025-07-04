@@ -22,5 +22,16 @@ export const dataSodas = [
     value2: '',
     value3: '',
     description: 'soda con limon y sirope frutal escarchado con sal o azucar.'
+  },
+  {
+    id: 3,
+    name:'cuatro toronja michelada',
+    valute: '8.000',
+    value2: '',
+    value3: '',
+    description: 'cuatro con limon y escarchado con sal o azucar.'
+
+
   }
+
 ]
