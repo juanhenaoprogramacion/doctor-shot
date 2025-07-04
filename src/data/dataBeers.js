@@ -3,7 +3,7 @@ export const dataBeers =[
     id: 1,
     name: 'Amarilla',
     value: '18.000',
-    value2: '2.000',
+    value2: '28.000',
     value3: '50.000',
     description: 'Cerveza, tequila, zumo de limón y zumo de naranja, escarchada con sal..'
   },
@@ -50,7 +50,7 @@ export const dataBeers =[
   {
     id: 7,
     name: 'Michelada',
-    value: '7.000',
+    value: '9.000',
     value2: '20.000',
     value3: '40.000',
     description: 'Cerveza, zumo de limón, escarchada con sal.'
