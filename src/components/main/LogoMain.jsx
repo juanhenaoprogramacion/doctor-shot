@@ -12,7 +12,7 @@ export const LogoMain = () =>{
               <>
                 <img
                   ref={logoRef}
-                  src={"/doctor-production/images/logoDoctor.png"}
+                  src={"/images/logoDoctor.png"}
                   alt=""
                   className="background-image img-fluid animate__animated animate__backInDown" />
 

@@ -3,12 +3,12 @@
   "short_name": "Doctor",
   "icons": [
     {
-      "src": "images/logoDoctor.png",
+      "src": "images/doctorAll.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "images/logoDoctor.png",
+      "src": "images/doctorAll.png",
       "sizes": "512x512",
       "type": "image/png"
     }
