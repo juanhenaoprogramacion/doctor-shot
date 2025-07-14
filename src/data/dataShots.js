@@ -322,7 +322,7 @@ export const dataShots =[
   },
   {
     id: 41,
-    Name: 'African hell',
+    name: 'African hell',
     value: '35.000',
     value1: '10.000',
     value2: '',
