@@ -12,7 +12,7 @@ export const dataShots =[
     id: 2,
     name: 'Sex on the beach',
     value: '28.000',
-    value2: '85.000',
+    value2: '8.000',
     value3: '',
     description: 'Vodka con zumo de naranja, licor de durazno y granadina.'
   },
@@ -321,13 +321,13 @@ export const dataShots =[
     description: ''
   },
   {
-    Id: 41,
+    id: 41,
     Name: 'African hell',
-    valute: '35.000',
-    valute1: '10.000',
-    valute2: '10.000',
-    valute3: '',
-    description: '' 
+    value: '35.000',
+    value1: '10.000',
+    value2: '',
+    value3: '',
+    description: 'vodka, ginebra,  limon, tamarindo, escarchado con tajin' 
   }
 
 ];
