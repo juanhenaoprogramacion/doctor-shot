@@ -324,8 +324,7 @@ export const dataShots =[
     id: 41,
     name: 'African hell',
     value: '35.000',
-    value1: '10.000',
-    value2: '',
+    value2: '10.000',
     value3: '',
     description: 'vodka, ginebra,  limon, tamarindo, escarchado con tajin' 
   }
